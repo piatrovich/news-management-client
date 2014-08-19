@@ -1,0 +1,38 @@
+body{
+    width: 900px;
+    margin: 0 auto;
+    background-color: #f1f1f1;
+}
+
+.widget-charts {
+    margin-top: 15px;
+    height: 180px;
+}
+.widget-numbers {
+    margin-top: 15px;
+    height: 130px;
+}
+
+.params {
+    margin-top: 15px;
+    height: 235px;
+}
+
+#guardian-keys {
+    width: 245px;
+}
+
+.box div {
+    margin-bottom: 10px;
+}
+
+.number {
+    color: #32a0ee;
+    font-size: 45px;
+    margin-right: 15px;
+}
+
+.console {
+    margin-top: 15px;
+    height: 80px;
+}
